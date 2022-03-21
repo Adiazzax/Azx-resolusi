@@ -1,0 +1,5 @@
+Bahasa Pemrograman Yang Harus Dikuasai
+
+-Javascript
+-Golang
+-C++
