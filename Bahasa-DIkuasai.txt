@@ -1,0 +1,6 @@
+Bahasa Pemrograman Yang Harus Dikuasai
+
+-Javascript
+-Golang
+-C++
+-Menguasai Framework
